@@ -1,10 +1,9 @@
 ## Hi! It's you! Welcome!👋
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanshuimei" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shanshuimei&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanshuimei&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shanshuimei&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+</p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
@@ -81,18 +80,3 @@ Rust                     1 repo              ███░░░░░░░░�
 
  Last Updated on 16/01/2025 13:08:10 UTC
 <!--END_SECTION:waka-->
-
-<!--
-**Shanshuimei/Shanshuimei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
