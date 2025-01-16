@@ -1,6 +1,8 @@
 ## Hi! It's you! Welcome!👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanshuimei)
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shanshuimei&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanshuimei" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shanshuisei&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+</div>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
