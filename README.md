@@ -3,7 +3,7 @@
   <img src="http://img.shields.io/badge/Code%20Time-25%20hrs%2045%20mins-blue" alt="Code Time">
   <img src="http://img.shields.io/badge/Profile%20Views-64-blue" alt="Profile Views">
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanshuimei&theme=transparent&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shanshuimei&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 </p>
