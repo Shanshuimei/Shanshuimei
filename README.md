@@ -1,5 +1,5 @@
 ## Hi! It's you! Welcome!👋
-<p align="center">
+<p align="left">
   <img src="http://img.shields.io/badge/Code%20Time-25%20hrs%2045%20mins-blue" alt="Code Time">
   <img src="http://img.shields.io/badge/Profile%20Views-64-blue" alt="Profile Views">
 </p>
