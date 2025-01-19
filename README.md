@@ -8,15 +8,13 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shanshuimei&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 60.7 kB Used in GitHub's Storage 
- > 
-> 🏆 75 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,5 +56,5 @@ Rust                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 18/01/2025 18:40:34 UTC
+ Last Updated on 19/01/2025 18:40:28 UTC
 <!--END_SECTION:waka-->
