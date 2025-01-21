@@ -4,8 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shanshuimei&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%205%20mins-blue)
 
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%205%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
 
 **🐱 My GitHub Data** 
