@@ -1,13 +1,11 @@
 ## Hi! It's you! Welcome!👋
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanshuimei&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shanshuimei&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanshuimei&theme=transparent&hide_border=true" style="height: 300px;" />  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shanshuimei&theme=transparent&hide_border=true&layout=compact&langs_count=22" style="height: 300px;" />
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%204%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%204%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
