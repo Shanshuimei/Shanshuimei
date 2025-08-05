@@ -5,13 +5,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 100.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 191 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,5 +55,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2025 18:56:43 UTC
+ Last Updated on 05/08/2025 18:58:04 UTC
 <!--END_SECTION:waka-->
