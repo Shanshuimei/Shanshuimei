@@ -5,7 +5,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,5 +55,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2025 18:44:51 UTC
+ Last Updated on 22/09/2025 18:47:22 UTC
 <!--END_SECTION:waka-->
