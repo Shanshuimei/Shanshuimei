@@ -5,13 +5,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 102.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -19,6 +21,27 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+🌆 Daytime                82 commits          ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+🌃 Evening                172 commits         █████████████░░░░░░░░░░░░   50.29 % 
+🌙 Night                  54 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Tuesday                  46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Wednesday                89 commits          ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+Thursday                 70 commits          █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Friday                   50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Sunday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+```
+
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -32,5 +55,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 19:00:48 UTC
+ Last Updated on 03/02/2026 19:26:19 UTC
 <!--END_SECTION:waka-->
