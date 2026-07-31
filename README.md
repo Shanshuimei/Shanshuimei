@@ -47,25 +47,25 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (14.47%)
+⏱ AI Coding Time: 56 mins (11.47%)
 
-✍️ 902 lines written by AI, 1,812 lines written by hand (33.24% AI-written)
+✍️ 584 lines written by AI, 1,437 lines written by hand (28.9% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 24 AI Prompts
+🧠 4 AI Sessions, 11 AI Prompts
 
-Grok                     780 lines           ████████████░░░░░░░░░░░░░   47.22 % 
-Composer                 664 lines           ██████████░░░░░░░░░░░░░░░   40.19 % 
-Sonnet                   208 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Composer                 664 lines           ███████████████████░░░░░░   74.69 % 
+Sonnet                   208 lines           ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Grok                     17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.24% of written lines came from AI
-📝 Concise Prompter — average 70 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 68.31% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 28.9% of written lines came from AI
+📝 Concise Prompter — average 73 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 77.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,5 +81,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 20:02:56 UTC
+ Last Updated on 31/07/2026 20:02:35 UTC
 <!--END_SECTION:waka-->
