@@ -47,9 +47,9 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (11.47%)
+⏱ AI Coding Time: 56 mins (49.45%)
 
-✍️ 584 lines written by AI, 1,437 lines written by hand (28.9% AI-written)
+✍️ 584 lines written by AI, 1,127 lines written by hand (34.13% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -62,10 +62,10 @@ Sonnet                   208 lines           ██████░░░░░�
 Grok                     17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 28.9% of written lines came from AI
+⚖️ Balanced with AI — 34.13% of written lines came from AI
 📝 Concise Prompter — average 73 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 77.29% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 68.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,5 +81,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 20:02:35 UTC
+ Last Updated on 01/08/2026 19:43:36 UTC
 <!--END_SECTION:waka-->
