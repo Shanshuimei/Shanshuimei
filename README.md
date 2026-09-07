@@ -5,9 +5,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -47,24 +47,25 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 32 mins (56.02%)
+⏱ AI Coding Time: 6 hrs 45 mins (62.04%)
 
-✍️ 3,787 lines written by AI, 9,998 lines written by hand (27.47% AI-written)
+✍️ 3,814 lines written by AI, 9,950 lines written by hand (27.71% AI-written)
 
-🔤 1,626,309 Input Tokens, 52,559 Output Tokens
+🔤 1,700,421 Input Tokens, 95,185 Output Tokens
 
-💵 $7.17 Estimated AI Cost This Week
+💵 $40.44 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 76 AI Prompts
+🧠 21 AI Sessions, 82 AI Prompts
 
-Github-Copilot           3,253 lines         █████████████████████░░░░   85.90 % 
-GPT                      534 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Github-Copilot           3,244 lines         █████████████████████░░░░   85.06 % 
+GPT                      534 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Codex-Vscode             36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 27.47% of written lines came from AI
-📄 Detailed Prompter — average 533 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 81.72% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 27.71% of written lines came from AI
+📄 Detailed Prompter — average 590 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 81.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,5 +81,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 20:40:36 UTC
+ Last Updated on 07/09/2026 21:42:53 UTC
 <!--END_SECTION:waka-->
