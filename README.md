@@ -5,9 +5,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -47,25 +47,25 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 45 mins (62.04%)
+⏱ AI Coding Time: 4 hrs 56 mins (69.37%)
 
-✍️ 3,814 lines written by AI, 9,950 lines written by hand (27.71% AI-written)
+✍️ 3,458 lines written by AI, 1,803 lines written by hand (65.73% AI-written)
 
-🔤 1,700,421 Input Tokens, 95,185 Output Tokens
+🔤 2,191,290 Input Tokens, 168,966 Output Tokens
 
-💵 $40.44 Estimated AI Cost This Week
+💵 $92.96 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 82 AI Prompts
+🧠 11 AI Sessions, 79 AI Prompts
 
-Github-Copilot           3,244 lines         █████████████████████░░░░   85.06 % 
-GPT                      534 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Codex-Vscode             36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Github-Copilot           3,349 lines         ████████████████████████░   96.35 % 
+GPT                      73 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Codex-Vscode             54 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 27.71% of written lines came from AI
-📄 Detailed Prompter — average 590 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 81.56% of changed lines were hand-edited
+⚖️ Balanced with AI — 65.73% of written lines came from AI
+📝 Concise Prompter — average 331 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 37.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,5 +81,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 21:42:53 UTC
+ Last Updated on 08/09/2026 21:19:57 UTC
 <!--END_SECTION:waka-->
