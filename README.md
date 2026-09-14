@@ -47,25 +47,25 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 22 mins (85.22%)
+⏱ AI Coding Time: 1 hr 52 mins (82.9%)
 
-✍️ 252 lines written by AI, 11 lines written by hand (95.82% AI-written)
+✍️ 214 lines written by AI, 11 lines written by hand (95.11% AI-written)
 
-🔤 1,942,466 Input Tokens, 178,640 Output Tokens
+🔤 1,400,139 Input Tokens, 32,882 Output Tokens
 
-💵 $96.57 Estimated AI Cost This Week
+💵 $13.34 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 58 AI Prompts
+🧠 9 AI Sessions, 30 AI Prompts
 
-Github-Copilot           129 lines           ████████████░░░░░░░░░░░░░   47.78 % 
-GPT                      87 lines            ████████░░░░░░░░░░░░░░░░░   32.22 % 
-Codex-Vscode             54 lines            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Github-Copilot           129 lines           ███████████████░░░░░░░░░░   59.72 % 
+GPT                      87 lines            ██████████░░░░░░░░░░░░░░░   40.28 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.82% of written lines came from AI
-📄 Detailed Prompter — average 1,253 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.91% of changed lines were hand-edited
+🤖 AI-Driven — 95.11% of written lines came from AI
+📚 Verbose Prompter — average 1,933 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 4.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,5 +81,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 21:02:31 UTC
+ Last Updated on 14/09/2026 21:57:49 UTC
 <!--END_SECTION:waka-->
