@@ -5,9 +5,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -47,15 +47,15 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 32 mins (68.54%)
+⏱ AI Coding Time: 4 hrs 15 mins (62.58%)
 
 ✍️ 2 lines written by AI, 1,518 lines written by hand (0.13% AI-written)
 
-🔤 4,343,092 Input Tokens, 251,344 Output Tokens
+🔤 2,957,493 Input Tokens, 188,931 Output Tokens
 
-💵 $165.80 Estimated AI Cost This Week
+💵 $115.87 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 91 AI Prompts
+🧠 14 AI Sessions, 68 AI Prompts
 
 Codex-Vscode             2 lines             █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -63,7 +63,7 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.13% of written lines came from AI
-📚 Verbose Prompter — average 3,346 characters per prompt
+📝 Concise Prompter — average 435 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 99.87% of changed lines were hand-edited
 ```
@@ -81,5 +81,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 20:55:17 UTC
+ Last Updated on 20/09/2026 20:59:44 UTC
 <!--END_SECTION:waka-->
