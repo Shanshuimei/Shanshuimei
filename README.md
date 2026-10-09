@@ -47,23 +47,23 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs (57.76%)
+⏱ AI Coding Time: 3 hrs 29 mins (48.81%)
 
-✍️ 2,518 lines written by AI, 660 lines written by hand (79.23% AI-written)
+✍️ 1,216 lines written by AI, 660 lines written by hand (64.82% AI-written)
 
-🔤 1,497,711 Input Tokens, 208,119 Output Tokens
+🔤 1,205,591 Input Tokens, 123,538 Output Tokens
 
-💵 $4.10 Estimated AI Cost This Week
+💵 $1.58 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 53 AI Prompts
+🧠 7 AI Sessions, 44 AI Prompts
 
-GPT                      2,560 lines         █████████████████████████   100.00 % 
+GPT                      1,252 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.23% of written lines came from AI
-📄 Detailed Prompter — average 1,169 characters per prompt
+⚖️ Balanced with AI — 64.82% of written lines came from AI
+📄 Detailed Prompter — average 1,297 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 22.59% of changed lines were hand-edited
+🚀 High AI Trust — 37.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,5 +79,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:30:49 UTC
+ Last Updated on 09/10/2026 22:48:50 UTC
 <!--END_SECTION:waka-->
