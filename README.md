@@ -5,7 +5,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2013%20mins-blue?style=flat)
 
@@ -47,23 +47,23 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 4 mins (90.26%)
+⏱ AI Coding Time: 6 hrs 4 mins (81.72%)
 
-✍️ 726 lines written by AI, 122 lines written by hand (85.61% AI-written)
+✍️ 726 lines written by AI, 357 lines written by hand (67.04% AI-written)
 
-🔤 1,053,404 Input Tokens, 106,234 Output Tokens
+🔤 2,269,233 Input Tokens, 261,402 Output Tokens
 
-💵 $0.69 Estimated AI Cost This Week
+💵 $1.63 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 86 AI Prompts
+🧠 7 AI Sessions, 86 AI Prompts
 
 GPT                      809 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.61% of written lines came from AI
+🤖 AI-Driven — 67.04% of written lines came from AI
 📝 Concise Prompter — average 396 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 15.64% of changed lines were hand-edited
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 32.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,5 +79,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 22:50:01 UTC
+ Last Updated on 27/10/2026 22:30:15 UTC
 <!--END_SECTION:waka-->
