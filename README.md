@@ -5,9 +5,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -47,23 +47,23 @@ Sunday                   44 commits          ██░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 59 mins (84.5%)
+⏱ AI Coding Time: 8 hrs 11 mins (82.02%)
 
-✍️ 1,484 lines written by AI, 366 lines written by hand (80.22% AI-written)
+✍️ 1,229 lines written by AI, 366 lines written by hand (77.05% AI-written)
 
-🔤 2,342,480 Input Tokens, 275,149 Output Tokens
+🔤 2,538,932 Input Tokens, 302,607 Output Tokens
 
-💵 $1.68 Estimated AI Cost This Week
+💵 $1.82 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 140 AI Prompts
+🧠 9 AI Sessions, 120 AI Prompts
 
-GPT                      1,597 lines         █████████████████████████   100.00 % 
+GPT                      1,307 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.22% of written lines came from AI
-📝 Concise Prompter — average 369 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 19.67% of changed lines were hand-edited
+🤖 AI-Driven — 77.05% of written lines came from AI
+📝 Concise Prompter — average 347 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 23.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,5 +79,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 22:45:53 UTC
+ Last Updated on 29/10/2026 22:54:49 UTC
 <!--END_SECTION:waka-->
